@@ -6,7 +6,7 @@ from openai import OpenAI
 # ----------------------------
 st.set_page_config(page_title="Prompt Enhancer App", layout="centered")
 
-st.title("🧠 Prompt Enhancer App")
+st.title("🧠 Raghav's Prompt Enhancer App")
 st.write("Improve your prompt before sending it to GPT")
 
 # ----------------------------
